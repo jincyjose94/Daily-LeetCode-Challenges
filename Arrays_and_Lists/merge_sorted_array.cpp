@@ -2,6 +2,8 @@
 #include <iostream>
 
 /*
+Difficulty-easy
+
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 The final sorted array is not returned, but instead be stored inside the array nums1. 
 nums1 has a length of m + n, nums2 has a length of n.
