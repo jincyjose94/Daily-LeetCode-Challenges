@@ -6,6 +6,12 @@ Note that multiple kids can have the greatest number of candies.
 Example 1:
 Input: candies = [2,3,5,1,3], extraCandies = 3
 Output: [true,true,true,false,true] 
+
+total time complexity is: O(n)+O(n)=O(n)
+Space Complexity
+Result Vector: The res vector requires O(n) space.
+Auxiliary Space: few extra variables maxCandy and len are used, which take O(1) space.
+Thus, the total space complexity is: O(n)
 */
 
 class Solution {
